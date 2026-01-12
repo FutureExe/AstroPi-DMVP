@@ -9,3 +9,5 @@ ochne alle müssen was sagen
 langsame komunikation
 
 herr von dbg kommt die ganze zeit vom thema ab
+
+der dachte profilbild von gabriel ist mensch
