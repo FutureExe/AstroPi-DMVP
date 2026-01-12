@@ -6,3 +6,4 @@ jo unterricht ist lustig
 ochne alle müssen was sagen
 
 
+langsame komunikation
