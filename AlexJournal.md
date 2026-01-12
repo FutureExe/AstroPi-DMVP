@@ -11,3 +11,5 @@ langsame komunikation
 herr von dbg kommt die ganze zeit vom thema ab
 
 der dachte profilbild von gabriel ist mensch
+
+ich spiel jetzt einfach gitarre, natürlich so das man es in der cam nicht sieht
