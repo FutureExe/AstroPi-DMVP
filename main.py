@@ -23,6 +23,19 @@ def add_csv_data(data_file, data):
         writer = csv.writer(f)
         writer.writerow(data)
 
+def magnetxyz():
+    raw = sense.get_compass_raw()
+    axis_x = ('{x}'.format(**raw))
+    axis_y = ('{y}'.format(**raw))
+    axis_z = ('{z}'.format(**raw))
+
+    magx = round(float(axis_x), 2)
+    magy = round(float(axis_y), 2)
+    magz = round(float(axis_z), 2)
+
+    return magx,magy,magz
+
+
 
 
 base_folder = Path(__file__).parent.resolve()
@@ -46,8 +59,9 @@ while (now_time < start_time + timedelta(minutes=0.3)):
         data = (
             counter,
             datetime.now(),
-	    "bla1",
-	    "bla2",
+	    mag[0],
+        mag[1],
+        mag[2],
 
         )
 
