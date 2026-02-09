@@ -1,15 +1,20 @@
+#Initialise -Libraries -Sense HAT -Logs -CSV
+
 from pathlib import Path
 from logzero import logger, logfile
 from orbit import ISS
 from time import sleep
 from datetime import datetime, timedelta
+from sense_hat import SenseHat
 import csv
+
+shat = SenseHat()
 
 def create_csv_file(data_file):
     """Create a new CSV file and add the header row"""
     with open(data_file, 'w') as f:
         writer = csv.writer(f)
-        header = ("Counter", "Date/time", "Latitude", "Longitude")
+        header = ("Counter", "Date/time")
         writer.writerow(header)
 
 def add_csv_data(data_file, data):
