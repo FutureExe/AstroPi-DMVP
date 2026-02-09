@@ -35,7 +35,94 @@ Eieiei
 
 
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+...
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
 
 
 
@@ -85,3 +172,4 @@ Eieiei
   Der Nasenaffe (Nasalis larvatus) ist eine Primatenart aus der Gruppe der Schlankaffen aus der Familie der Meerkatzenverwandten (Cercopithecidae).
 
 Vom IUCN wurde die Art bereits 2015 als stark gefährdet eingestuft und seitdem nicht wieder überprüft. Der wichtigste Grund für die starke Abnahme der Nasenaffen, ist die Abnahme ihrer angestammten Lebensräume durch Entwaldung, Bebauung und landwirtschaftliche Nutzung, sowie die Bedeutung der Tiere in der Traditionellen chinesischen Medizin und als Bushmeat.[1] 
+
