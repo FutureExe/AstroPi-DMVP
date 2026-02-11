@@ -24,7 +24,7 @@ def add_csv_data(data_file, data):
         writer.writerow(data)
 
 def magnetxyz():
-    raw = sense.get_compass_raw()
+    raw = shat.get_compass_raw()
     axis_x = ('{x}'.format(**raw))
     axis_y = ('{y}'.format(**raw))
     axis_z = ('{z}'.format(**raw))
