@@ -52,9 +52,10 @@ counter = 1
 start_time = datetime.now()
 now_time = datetime.now()
 # Run a loop for (almost) three hours
-while (now_time < start_time + timedelta(minutes=0.3)):
+while (now_time < start_time + timedelta(minutes=1)):
     try:
-
+        #Get Sensor data
+        mag = magnetxyz()
         # Save the data to the file
         data = (
             counter,
