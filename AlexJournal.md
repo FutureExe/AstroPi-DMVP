@@ -1,4 +1,4 @@
-# untericht per videokonferenz
+# untericht per videokonferenz(naja und halt alles andere)
 jo unterricht ist lustig
 
 
@@ -27,6 +27,7 @@ aber helldivers macht mehr spaß
 ich arbeite ohne zu arbeiten
 
 
+---
 
 
 
